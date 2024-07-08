@@ -16,6 +16,8 @@ outputs:
     description: "content of the changelog"
   version:
     description: "version of the latest release"
+  message:
+    description: "message of the tag context"
 runs:
   using: "docker"
   image: "Dockerfile"
