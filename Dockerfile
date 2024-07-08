@@ -1,4 +1,4 @@
-FROM orhunp/git-cliff:sha-227a307
+FROM orhunp/git-cliff:2.4.0
 LABEL maintainer="orhun <orhunparmaksiz@gmail.com>"
 LABEL repository="https://github.com/orhun/git-cliff-action"
 LABEL homepage="https://github.com/orhun/git-cliff"
