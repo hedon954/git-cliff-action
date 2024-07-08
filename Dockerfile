@@ -1,6 +1,6 @@
-FROM orhunp/git-cliff:2.4.0
+FROM orhunp/git-cliff:sha-227a307
 LABEL maintainer="orhun <orhunparmaksiz@gmail.com>"
-LABEL repository="https://github.com/orhun/git-cliff-action"
+LABEL repository="https://github.com/hedon954/git-cliff-action"
 LABEL homepage="https://github.com/orhun/git-cliff"
 
 LABEL com.github.actions.name="Changelog Generator"
